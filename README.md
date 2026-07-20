@@ -59,37 +59,6 @@ reach_me:  aashmaydv18@gmail.com
 <br>
 
 
-### Activity graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aashma-yadav&theme=react-dark&bg_color=0A0E27&color=00F6FF&line=7B2FFF&point=FF00E5&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=aashma-yadav&theme=minimal&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashma-yadav&theme=react-dark&bg_color=0A0E27&color=00F6FF&line=7B2FFF&point=FF00E5&hide_border=true" alt="activity graph"/>
-</picture>
-
-</div>
-
-### Isometric contribution calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/main/metrics.isocalendar.svg" alt="isometric contribution calendar"/>
-
-<sub>Generated on a schedule by <code>.github/workflows/metrics.yml</code> — see setup notes below.</sub>
-
-</div>
-
-### Achievements
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/main/metrics.achievements.svg" alt="achievements"/>
-
-</div>
-
-<br>
 
 ## The snake eats the commit graph
 
