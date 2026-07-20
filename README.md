@@ -58,18 +58,6 @@ reach_me:  aashmaydv18@gmail.com
 
 <br>
 
-## GitHub, by the numbers
-
-<div align="center">
-
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=aashma-yadav&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0A0E27&title_color=00F6FF&icon_color=FF00E5&text_color=C7D4F0&ring_color=7B2FFF" alt="GitHub stats"/>
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashma-yadav&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0A0E27&title_color=00F6FF&text_color=C7D4F0&langs_count=8" alt="top languages"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashma-yadav&theme=github-dark-blue&hide_border=true&background=0A0E27&ring=00F6FF&fire=FF00E5&currStreakLabel=00F6FF" alt="streak stats"/>
-
-</div>
 
 ### Activity graph
 
@@ -122,25 +110,21 @@ reach_me:  aashmaydv18@gmail.com
 <div align="center">
 <table border="0" cellspacing="12" cellpadding="0">
 <tr>
-<td><a href="https://github.com/aashma-yadav"><img src="assets/card-minios.svg" width="100%" alt="MiniOS"/></a></td>
-<td><a href="https://github.com/aashma-yadav"><img src="assets/card-asl.svg" width="100%" alt="Real-Time ASL Translator"/></a></td>
+<td><a href="[https://github.com/aashma-yadav](https://github.com/aashma-yadav/MiniOS.git)"><img src="assets/card-minios.svg" width="100%" alt="MiniOS"/></a></td>
+<td><a href="[https://github.com/aashma-yadav](https://github.com/aashma-yadav/asl-sign-language-translator.git)"><img src="assets/card-asl.svg" width="100%" alt="Real-Time ASL Translator"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/aashma-yadav"><img src="assets/card-dsa-viz.svg" width="100%" alt="Pattern Search Visualiser"/></a></td>
-<td><a href="https://github.com/aashma-yadav"><img src="assets/card-jarvis.svg" width="100%" alt="JARVIS"/></a></td>
+<td><a href="[https://github.com/aashma-yadav](https://github.com/aashma-yadav/Efficient-Text-Searching.git)"><img src="assets/card-dsa-viz.svg" width="100%" alt="Pattern Search Visualiser"/></a></td>
+<td><a href="[https://github.com/aashma-yadav](https://github.com/aashma-yadav/JARVIS.git)"><img src="assets/card-jarvis.svg" width="100%" alt="JARVIS"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/aashma-yadav"><img src="assets/card-ecom.svg" width="100%" alt="Smart E-Commerce System"/></a></td>
-<td><a href="https://github.com/aashma-yadav"><img src="assets/card-matching.svg" width="100%" alt="Stable Matching for BTP"/></a></td>
+<td><a href="[https://github.com/aashma-yadav](https://github.com/aashma-yadav/DSA_Project.git)"><img src="assets/card-ecom.svg" width="100%" alt="Smart E-Commerce System"/></a></td>
+<td><a href="[https://github.com/aashma-yadav](https://github.com/aashma-yadav/btp-allocation-system.git)"><img src="assets/card-matching.svg" width="100%" alt="Stable Matching for BTP"/></a></td>
 </tr>
-<tr>
-<td colspan="2" align="center"><a href="https://github.com/aashma-yadav"><img src="assets/card-washify.svg" width="49%" alt="Washify"/></a></td>
-</tr>
+
 </table>
 </div>
 
-> **Note:** the **Washify** card is a placeholder — swap in its real description, key features, and repo link once you send me the details.
-> Update every `href="https://github.com/aashma-yadav"` above to the specific repo link for that project.
 
 <br>
 
@@ -156,7 +140,7 @@ RBF surrogate modelling for RBDO of 5MW offshore monopiles across six limit stat
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/aashma-yadav?theme=dark&font=Courier%20New&ext=heatmap" alt="LeetCode stats"/>
+<img src="https://leetcard.jacoblin.cool/yadav_18?theme=dark&font=Courier%20New&ext=heatmap" alt="LeetCode stats"/>
 
 </div>
 
@@ -169,9 +153,8 @@ RBF surrogate modelling for RBDO of 5MW offshore monopiles across six limit stat
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aashma-yadav"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F6FF"/></a>
-<a href="mailto:aashmaydv1810@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0A0E27?style=for-the-badge&logo=maildotru&logoColor=FF00E5"/></a>
+<a href="mailto:aashmaydv18@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0A0E27?style=for-the-badge&logo=maildotru&logoColor=FF00E5"/></a>
 
 </div>
 
----
-<div align="center"><sub>Built with a lot of SVG, a scheduled GitHub Action, and no sleep. See <code>SETUP.md</code> for how this profile stays alive.</sub></div>
+
