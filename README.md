@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/aashma-yadav">
   <img src="https://img.shields.io/badge/LinkedIn-aashma--yadav-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F6FF&labelColor=0A0E27" alt="LinkedIn"/>
 </a>
-<a href="mailto:aashmaydv1810@gmail.com">
+<a href="mailto:aashmaydv18@gmail.com">
   <img src="https://img.shields.io/badge/Email-aashmaydv1810-0A0E27?style=for-the-badge&logo=gmail&logoColor=FF00E5&labelColor=0A0E27" alt="Email"/>
 </a>
 <a href="https://github.com/aashma-yadav">
