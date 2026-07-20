@@ -62,17 +62,9 @@ reach_me:  aashmaydv18@gmail.com
 
 ## The snake eats the commit graph
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/output/snake.svg" alt="snake animation"/>
-</picture>
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## Featured builds
 
