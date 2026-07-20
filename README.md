@@ -136,25 +136,4 @@ RBF surrogate modelling for RBDO of 5MW offshore monopiles across six limit stat
 
 <br>
 
-## LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/yadav_18?theme=dark&font=Courier%20New&ext=heatmap" alt="LeetCode stats"/>
-
-</div>
-
-<sub>Replace <code>aashma-yadav</code> in the LeetCode card URL above with your actual LeetCode handle if it differs.</sub>
-
-<br>
-
-## Let's build something
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aashma-yadav"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00F6FF"/></a>
-<a href="mailto:aashmaydv18@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0A0E27?style=for-the-badge&logo=maildotru&logoColor=FF00E5"/></a>
-
-</div>
-
 
