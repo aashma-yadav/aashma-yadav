@@ -36,7 +36,7 @@
 name:      Aashma Yadav
 role:      Computer Science & Engineering, B.Tech @ IIT Jodhpur
 focus:     [ DSA , Operating Systems, ARM64/Systems Programming, Machine Learning ]
-currently: puruing projects on MERN STACK
+currently: Pursuing projects on MERN STACK
 learning:  AI agents, Model Context Protocol, distributed systems
 reach_me:  aashmaydv18@gmail.com
 ```
