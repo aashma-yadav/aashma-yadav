@@ -1,0 +1,79 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060F"/>
+      <stop offset="55%" stop-color="#0A0E27"/>
+      <stop offset="100%" stop-color="#0F0A2E"/>
+    </linearGradient>
+
+    <linearGradient id="cyan-mag" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F6FF"/>
+      <stop offset="50%" stop-color="#7B2FFF"/>
+      <stop offset="100%" stop-color="#FF00E5"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softglow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#1B2340" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- PCB circuit traces -->
+  <g stroke-width="1.6" fill="none" opacity="0.85">
+    <path d="M0 60 H180 L210 90 H420 L450 120" stroke="#00F6FF" opacity="0.55">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 220 H140 L170 190 H360 L400 160" stroke="#FF00E5" opacity="0.5">
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1200 50 H1020 L990 80 H820 L790 110" stroke="#7B2FFF" opacity="0.55">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="3.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1200 230 H1040 L1010 200 H860 L830 175" stroke="#00F6FF" opacity="0.5">
+      <animate attributeName="opacity" values="0.6;0.2;0.6" dur="4.6s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="450" cy="120" r="4" fill="#00F6FF"/>
+    <circle cx="400" cy="160" r="4" fill="#FF00E5"/>
+    <circle cx="790" cy="110" r="4" fill="#7B2FFF"/>
+    <circle cx="830" cy="175" r="4" fill="#00F6FF"/>
+  </g>
+
+  <!-- scanline -->
+  <rect x="0" y="0" width="1200" height="2" fill="#00F6FF" opacity="0.35">
+    <animate attributeName="y" values="0;280;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Eyebrow tag -->
+  <text x="600" y="82" text-anchor="middle" font-family="'Courier New', monospace" font-size="15" letter-spacing="6" fill="#7B2FFF" filter="url(#softglow)">&lt; SYSTEMS_PROGRAMMER &#47; ML_ENGINEER &gt;</text>
+
+  <!-- Name -->
+  <text x="600" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="72" letter-spacing="10" fill="#0A0E27" transform="translate(3,3)" opacity="0.6">AASHMA YADAV</text>
+  <text x="600" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="72" letter-spacing="10" fill="#E8F1FF" filter="url(#glow)">AASHMA YADAV</text>
+  <text x="600" y="160" text-anchor="middle" font-family="'Courier New', monospace" font-weight="700" font-size="72" letter-spacing="10" fill="url(#cyan-mag)" opacity="0.55">AASHMA YADAV</text>
+
+  <!-- Tagline -->
+  <text x="600" y="205" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" letter-spacing="1.5" fill="#9FB4D9">B.Tech CSE @ IIT Jodhpur  ::  ARM64 &amp; OS Internals  ::  Applied ML</text>
+
+  <!-- bottom rule -->
+  <line x1="260" y1="234" x2="940" y2="234" stroke="url(#cyan-mag)" stroke-width="2" opacity="0.7"/>
+  <circle cx="260" cy="234" r="3.5" fill="#00F6FF"/>
+  <circle cx="940" cy="234" r="3.5" fill="#FF00E5"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-minios" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E27"/>
+      <stop offset="100%" stop-color="#120B2E"/>
+    </linearGradient>
+    <linearGradient id="acc-minios" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F6FF"/>
+      <stop offset="100%" stop-color="#7B2FFF"/>
+    </linearGradient>
+    <filter id="blur-minios" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="glow-minios" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip-minios"><rect x="0" y="0" width="420" height="220" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip-minios)">
+    <rect width="420" height="220" fill="url(#bg-minios)"/>
+    <circle cx="420" cy="0" r="120" fill="#00F6FF" opacity="0.25" filter="url(#blur-minios)"/>
+    <circle cx="0" cy="220" r="110" fill="#7B2FFF" opacity="0.22" filter="url(#blur-minios)"/>
+
+    <!-- glass panel -->
+    <rect x="14" y="14" width="392" height="192" rx="14"
+          fill="#ffffff" opacity="0.05" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
+
+    <rect x="14" y="14" width="4" height="192" fill="url(#acc-minios)"/>
+
+    <text x="34" y="46" font-family="'Courier New', monospace" font-size="12" letter-spacing="3" fill="#00F6FF" filter="url(#glow-minios)">SYSTEMS · BARE-METAL</text>
+    <text x="34" y="76" font-family="'Courier New', monospace" font-weight="700" font-size="23" fill="#EAF2FF">MiniOS</text>
+    <text x="34" y="98" font-family="'Courier New', monospace" font-size="12.5" fill="#93A6CC">ARM64 ML Inference Unikernel</text>
+
+    <circle cx="34" cy="114" r="2.6" fill="#00F6FF"/><text x="46" y="118" font-family="'Courier New', monospace" font-size="12.5" fill="#C7D4F0">7-policy scheduler · MLQ @ 269&#181;s pipeline</text>
+    <circle cx="34" cy="134" r="2.6" fill="#00F6FF"/><text x="46" y="138" font-family="'Courier New', monospace" font-size="12.5" fill="#C7D4F0">&lt;8&#181;s context-switch (pure ARM64 asm)</text>
+    <circle cx="34" cy="154" r="2.6" fill="#00F6FF"/><text x="46" y="158" font-family="'Courier New', monospace" font-size="12.5" fill="#C7D4F0">Custom RUDP stack + 23-op ONNX runtime</text>
+
+    <text x="34" y="196" font-family="'Courier New', monospace" font-size="11.5" fill="#7B2FFF">C / C++ · QEMU Cortex-A53 · ARM64 NEON</text>
+  </g>
+  <rect x="1" y="1" width="418" height="218" rx="18" fill="none" stroke="url(#acc-minios)" stroke-width="1.5" opacity="0.65"/>
+</svg>
