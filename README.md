@@ -35,10 +35,10 @@
 ```yaml
 name:      Aashma Yadav
 role:      Computer Science & Engineering, B.Tech @ IIT Jodhpur
-focus:     [ Operating Systems, ARM64/Systems Programming, Machine Learning ]
-currently: Designing a bare-metal ARM64 unikernel with a custom scheduler
+focus:     [ DSA , Operating Systems, ARM64/Systems Programming, Machine Learning ]
+currently: puruing projects on MERN STACK
 learning:  AI agents, Model Context Protocol, distributed systems
-reach_me:  aashmaydv1810@gmail.com
+reach_me:  aashmaydv18@gmail.com
 ```
 
 - **Systems** — bare-metal unikernels, cooperative schedulers, custom transport protocols, ARM64 assembly
