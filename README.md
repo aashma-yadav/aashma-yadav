@@ -48,11 +48,11 @@ reach_me:  aashmaydv18@gmail.com
 
 <br>
 
-## Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,flask,pytorch,tensorflow,sklearn,postgres,mysql,firebase,git,github,linux,arduino&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,nodejs,flask,pytorch,tensorflow,sklearn,postgres,mysql,OOPS,firebase,git,github,linux,arduino&theme=dark" alt="skills"/>
 
 </div>
 
@@ -60,7 +60,6 @@ reach_me:  aashmaydv18@gmail.com
 
 
 
-## The snake eats the commit graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aashma-yadav/aashma-yadav/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
